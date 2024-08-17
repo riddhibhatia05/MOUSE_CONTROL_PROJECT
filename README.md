@@ -4,11 +4,11 @@ Objective:
 To create a system that allows users to control their computer's mouse using hand movements and gestures detected through a webcam.
 
 Technologies Used:
-OpenCV: For capturing video from the webcam and processing the video frames.
+OpenCV: This is used to capture video from the webcam and process the video frames.
 NumPy: For numerical operations and coordinate transformations.
 HandTrackingModule: A custom module (likely based on MediaPipe) for detecting and tracking hand landmarks.
-pyautogui: For controlling the mouse movements and clicks.
-time: For calculating and displaying the frames per second (FPS).
+pyautogui: This is used to control mouse movements and clicks.
+Time: This is used to calculate and display the frames per second (FPS).
 
 Detailed Explanation
 1. Initialization
